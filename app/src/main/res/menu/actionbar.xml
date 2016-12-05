@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/guardar"
+        android:icon="@drawable/guardar"
+        android:title="@string/guardar"
+        app:showAsAction="always"/>
+
+
+
+    <item android:id="@+id/buscar"
+        android:icon="@drawable/lupa"
+        android:title="@string/buscar"
+        app:showAsAction="always"/>
+
+
+        <item android:id="@+id/editar"
+        android:title="@string/editar"
+        android:orderInCategory="3"
+        />
+
+        <item android:id="@+id/eliminar"
+        android:title="@string/eliminar"
+        android:orderInCategory="4"
+        />
+
+     <item android:id="@+id/opciones"
+        android:title="@string/opciones" />
+
+    />
+
+</menu>

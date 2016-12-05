@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Action Bar</string>
+    <string name="añadir">añadir</string>
+    <string name="buscar">buscar</string>
+    <string name="editar">editar</string>
+    <string name="eliminar">eliminar</string>
+    <string name="opciones">opciodes</string>
+    <string name="guardar">guardar</string>
+    <string name="peliculas">Peliculas</string>
+    <string name="musica">Musica</string>
+    <string name="comic">Comic</string>
+
+
+</resources>
